@@ -1,1 +1,22 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+    font-family: fantasy;
+    text-align: center;
+    margin-top: 25px, 25px;
+   background-color:rgb(39, 110, 202);
+   padding: 10px;}
+   img {
+    width: 250px;}
+h1 {
+    display: auto;
+    text-align: center;
+    font-size: 50px;
+    color: #181a0a;}
+button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    font-size: 16px;
+    color:black;
+    background: rgb(153, 168, 201);
+    font-family: fantasy; 
+    border-radius: 10px; }
